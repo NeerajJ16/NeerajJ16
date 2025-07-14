@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Neeraj Jawahirani
+### Hi there 👋 I'm Neeraj Jawahirani - Data Engineer / Analyst
 
-🚀 Data Enthusiast | 📊 ML Explorer | 💻 Engineer by Logic, Artist by Curiosity
+🚀 Data Enthusiast | 📊 AI & ML Explorer | 💻 Engineer by Logic, Artist by Curiosity
 
 ---
 
@@ -33,7 +33,6 @@
 ### ⚡ Fun Facts
 
 - 🌅 I’m a huge fan of sunsets and beaches
-- 📖 I follow Hindu mythology deeply
 - 🕺 I love dancing and meeting new people
 - ✨ Curious by nature — always ready to learn and unlearn
 
