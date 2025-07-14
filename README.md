@@ -25,6 +25,7 @@
 ### 🌐 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/neeraj-j-71841a12a/?_l=en_US)
+- 👨‍💻 [Portfolio](https://neerajj.netlify.app)
 - 📸 [Instagram](https://www.instagram.com/neeraj_jawahirani_/)
 - 💬 You can also reach me through email or connect for exciting projects!
 
