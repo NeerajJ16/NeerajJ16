@@ -39,13 +39,5 @@
 
 ---
 
-### 📌 My GitHub Stats
-
-![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=neerajj16&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajj16&layout=compact&theme=tokyonight)
-
----
-
 _“Data is the new oil, but intelligence is the engine.”_
 
