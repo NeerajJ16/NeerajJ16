@@ -1,7 +1,51 @@
-### Hi there 👋
-- 👋 Hi, I’m Neeraj Jawahirani
-- 👀 I’m interested in Data Science/AI/ML
-- 🌱 I’m currently pursuing my masters in Data Science-Computer Science at Florida State University
-- 💞️ I’m looking to collaborate on Data Science related Projects which includes Data Model Training, Fitting, Analysis and Predictions
-- 🔗 How to reach me on LinkedIn - https://www.linkedin.com/in/neeraj-j-71841a12a/?_l=en_US
-- 📫 How to reach me Instagram - https://www.instagram.com/neeraj_jawahirani_/
+### Hi there 👋 I'm Neeraj Jawahirani
+
+🚀 Data Enthusiast | 📊 ML Explorer | 💻 Engineer by Logic, Artist by Curiosity
+
+---
+
+### 👨‍🎓 About Me
+
+- 🎓 Graduated **Master's in Data Science - Computer Science** at **Florida State University**
+- 💡 Passionate about **Data Science, AI/ML, Analytics, and Visualization**
+- 🛠️ Skilled in Python, SQL, scikit-learn, Pandas, NumPy, Matplotlib, Power BI, Tableau
+- 🤖 Exploring real-world applications of machine learning, model training, fitting, and predictions
+- 🔍 I love solving data problems and making sense of numbers with clean models
+
+---
+
+### 💼 Looking to Collaborate On
+
+- 📦 Data Engineering Projects (ETL Pipelines, Warehousing, dbt, Airflow)
+- 📈 Data Science Projects (Prediction Models, NLP, Time Series, MLOps)
+- 🤝 AI/ML Research-based collaborations (academic or startup)
+
+---
+
+### 🌐 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/neeraj-j-71841a12a/?_l=en_US)
+- 📸 [Instagram](https://www.instagram.com/neeraj_jawahirani_/)
+- 💬 You can also reach me through email or connect for exciting projects!
+
+---
+
+### ⚡ Fun Facts
+
+- 🌅 I’m a huge fan of sunsets and beaches
+- 📖 I follow Hindu mythology deeply
+- 🕺 I love dancing and meeting new people
+- ✨ Curious by nature — always ready to learn and unlearn
+
+---
+
+### 📌 My GitHub Stats
+
+![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=neerajj16&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajj16&layout=compact&theme=tokyonight)
+
+---
+
+_“Data is the new oil, but intelligence is the engine.”_
+
