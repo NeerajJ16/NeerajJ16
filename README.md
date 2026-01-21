@@ -73,7 +73,7 @@
 
 <p align="left">
   📍 Florida, USA<br>
-  📧 Email: jawahiranineeraj16@gmail.com<br><br>
+  📧 Email: neerajjawahirani@gmail.com<br><br>
 
   <a href="https://www.linkedin.com/in/neeraj-jawahirani-71841a12a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
