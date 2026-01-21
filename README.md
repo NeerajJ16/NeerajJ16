@@ -46,18 +46,18 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" height="40" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/dbt/dbt-icon.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
   <!-- LLMs -->
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="40" />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" />
+  <img src="https://icons.getbootstrap.com/icons/openai/" height="40" />
   
   <!-- RAG -->
   <img width="12" />
