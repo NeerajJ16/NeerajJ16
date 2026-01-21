@@ -6,24 +6,24 @@
   <h3>👩‍💻 About Me</h3>
 
   <p>
-    Hello! I'm Neeraj Jawahirani, a Data & AI Engineer based in Florida, USA, with a strong background in building scalable data platforms and production-ready machine learning systems. I hold a Master’s degree in Data Science (Computer Science) from Florida State University and a Bachelor’s degree in Information Technology from the University of Pune.
+    Hello! I'm Neeraj Jawahirani, a Data & AI Engineer based in Florida, USA. I hold a Master’s degree in Data Science (Computer Science) from Florida State University and a Bachelor’s degree in Information Technology from the University of Pune.
   </p>
 
   <p>
-    I enjoy designing efficient data pipelines, deploying ML and AI solutions in the cloud, and turning complex datasets into reliable, actionable insights. My interests span data engineering, MLOps, and applied AI, with a focus on building systems that are secure, performant, and easy to maintain.
+    I work at the intersection of <strong>data engineering and artificial intelligence</strong>—building scalable data pipelines, enabling analytics platforms, and deploying AI systems powered by machine learning and large language models.
   </p>
 
   <p>
-    I value clean architecture, automation, and collaboration, and I’m passionate about continuous learning in areas like large language models, modern data stacks, and cloud-native engineering.
+    My interests include cloud-native data platforms, <strong>LLMs, Retrieval-Augmented Generation (RAG)</strong>, MLOps, and end-to-end AI systems—from raw data ingestion and transformation to model deployment and monitoring.
   </p>
 
   <p>
     <strong>Tech stack:</strong><br>
-    Python, SQL, Scala, Apache Spark, PySpark, Airflow, Databricks, Snowflake, AWS, Azure, GCP, Docker, Kubernetes, TensorFlow, PyTorch, scikit-learn, MLflow, LangChain, FastAPI, dbt, Kafka.
+    Python, SQL, Apache Spark, PySpark, Airflow, Databricks, Snowflake, dbt, AWS, Azure, Docker, Kubernetes, TensorFlow, PyTorch, scikit-learn, MLflow, LangChain, LLMs, RAG, FastAPI, Kafka.
   </p>
 
   <p>
-    I’m actively seeking full-time opportunities in Data Engineering, AI Engineering, or related roles. If you’d like to collaborate or connect, feel free to reach out!
+    I’m actively seeking full-time opportunities in <strong>Data Engineering, AI Engineering, or ML-focused roles</strong>. Always open to collaboration, learning, and solving impactful problems.
   </p>
 </div>
 
@@ -31,8 +31,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" />
   <img width="12" />
@@ -46,18 +44,31 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" height="40" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/dbt/dbt-icon.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
+  <!-- LLMs -->
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" height="40" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" height="40" />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" />
+  
+  <!-- RAG -->
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/pineconeio/pineconeio-icon.svg" height="40" />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/106134331?s=200&v=4" height="40" />>
+  
 </div>
 
 <h3 align="left">🔥 My Stats</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NeerajJ16&theme=dark" height="220" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajJ16&layout=compact&theme=vision-friendly-dark" />
@@ -67,8 +78,19 @@
 
 <p align="left">
   📍 Florida, USA<br>
-  📧 Email: jawahiranineeraj16@gmail.com<br>
-  🔗 LinkedIn | GitHub | Portfolio
+  📧 Email: jawahiranineeraj16@gmail.com<br><br>
+
+  <a href="https://www.linkedin.com/in/neeraj-jawahirani-71841a12a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+  </a>
+
+  <a href="https://github.com/NeerajJ16" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="25" />
+  </a>
+
+  <a href="https://neerajj.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" height="25" />
+  </a>
 </p>
 
 </div>
