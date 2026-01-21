@@ -56,7 +56,7 @@
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jawahiranineeraj16&theme=dark" height="220" />
+  <img src="https://streak-stats.demolab.com?user=NeerajJ16&theme=dark" height="220" />
 </div>
 
 <div align="center">
