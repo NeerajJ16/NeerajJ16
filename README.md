@@ -61,7 +61,7 @@
   
   <!-- RAG -->
   <img width="12" />
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/blob/main/hf-logo-pirate.png" height="40" />
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-pirate.png" height="40" />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/106134331?s=200&v=4" height="40" />>
   
