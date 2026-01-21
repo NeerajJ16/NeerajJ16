@@ -1,43 +1,74 @@
-### Hi there 👋 I'm Neeraj Jawahirani - Data Engineer / Analyst
+<div align="center">
 
-🚀 Data Enthusiast | 📊 AI & ML Explorer | 💻 Engineer by Logic, Artist by Curiosity
+<div style="text-align: left;">
+  <h1>Hey there 👋, I'm Neeraj Jawahirani</h1>
 
----
+  <h3>👩‍💻 About Me</h3>
 
-### 👨‍🎓 About Me
+  <p>
+    Hello! I'm Neeraj Jawahirani, a Data & AI Engineer based in Florida, USA, with a strong background in building scalable data platforms and production-ready machine learning systems. I hold a Master’s degree in Data Science (Computer Science) from Florida State University and a Bachelor’s degree in Information Technology from the University of Pune.
+  </p>
 
-- 🎓 Graduated **Master's in Data Science - Computer Science** at **Florida State University**
-- 💡 Passionate about **Data Science, AI/ML, Analytics, and Visualization**
-- 🛠️ Skilled in Python, SQL, scikit-learn, Pandas, NumPy, Matplotlib, Power BI, Tableau
-- 🤖 Exploring real-world applications of machine learning, model training, fitting, and predictions
-- 🔍 I love solving data problems and making sense of numbers with clean models
+  <p>
+    I enjoy designing efficient data pipelines, deploying ML and AI solutions in the cloud, and turning complex datasets into reliable, actionable insights. My interests span data engineering, MLOps, and applied AI, with a focus on building systems that are secure, performant, and easy to maintain.
+  </p>
 
----
+  <p>
+    I value clean architecture, automation, and collaboration, and I’m passionate about continuous learning in areas like large language models, modern data stacks, and cloud-native engineering.
+  </p>
 
-### 💼 Looking to Collaborate On
+  <p>
+    <strong>Tech stack:</strong><br>
+    Python, SQL, Scala, Apache Spark, PySpark, Airflow, Databricks, Snowflake, AWS, Azure, GCP, Docker, Kubernetes, TensorFlow, PyTorch, scikit-learn, MLflow, LangChain, FastAPI, dbt, Kafka.
+  </p>
 
-- 📦 Data Engineering Projects (ETL Pipelines, Warehousing, dbt, Airflow)
-- 📈 Data Science Projects (Prediction Models, NLP, Time Series, MLOps)
-- 🤝 AI/ML Research-based collaborations (academic or startup)
+  <p>
+    I’m actively seeking full-time opportunities in Data Engineering, AI Engineering, or related roles. If you’d like to collaborate or connect, feel free to reach out!
+  </p>
+</div>
 
----
+<h3 align="left">🛠 Languages and Tools</h3>
 
-### 🌐 Connect With Me
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
+</div>
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/neeraj-j-71841a12a/?_l=en_US)
-- 👨‍💻 [Portfolio](https://neerajj.netlify.app)
-- 📸 [Instagram](https://www.instagram.com/neeraj_jawahirani_/)
-- 💬 You can also reach me through email or connect for exciting projects!
+<h3 align="left">🔥 My Stats</h3>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jawahiranineeraj16&theme=dark" height="220" />
+</div>
 
-### ⚡ Fun Facts
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawahiranineeraj16&layout=compact&theme=vision-friendly-dark" />
+</div>
 
-- 🌅 I’m a huge fan of sunsets and beaches
-- 🕺 I love dancing and meeting new people
-- ✨ Curious by nature — always ready to learn and unlearn
+<h3 align="left">📫 How to reach me</h3>
 
----
+<p align="left">
+  📍 Florida, USA<br>
+  📧 Email: jawahiranineeraj16@gmail.com<br>
+  🔗 LinkedIn | GitHub | Portfolio
+</p>
 
-_“Data is the new oil, but intelligence is the engine.”_
-
+</div>
