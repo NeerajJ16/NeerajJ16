@@ -60,7 +60,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawahiranineeraj16&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajJ16&layout=compact&theme=vision-friendly-dark" />
 </div>
 
 <h3 align="left">📫 How to reach me</h3>
