@@ -48,8 +48,6 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
   <!-- LLMs -->
   <img width="12" />
@@ -58,13 +56,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.brandfetch.io/idR3duQxYl/theme/light/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" />
-  
-  <!-- RAG -->
   <img width="12" />
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-pirate.png" height="40" />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/106134331?s=200&v=4" height="40" />>
   
+ 
 </div>
 
 <h3 align="left">🔥 My Stats</h3>
