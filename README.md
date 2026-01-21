@@ -57,7 +57,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="40" />
   <img width="12" />
-  <img src="https://commons.wikimedia.org/wiki/File:OpenAI_logo_2025.svg#/media/File:OpenAI_logo_2025_(symbol).svg" height="40" />
+  <img src="https://cdn.brandfetch.io/idR3duQxYl/theme/light/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" />
   
   <!-- RAG -->
   <img width="12" />
