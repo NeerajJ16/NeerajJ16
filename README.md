@@ -62,20 +62,22 @@
  
 </div>
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="left">🔥   My Stats </h3>
 
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajJ16&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://streak-stats.demolab.com?user=NeerajJ16&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<h3 align="left">📫 How to reach me</h3>
+
+<h3 align="left">📫 Contact Info</h3>
 
 <p align="left">
   📍 Florida, USA<br>
   📧 Email: neerajjawahirani@gmail.com<br><br>
 
-  <a href="https://www.linkedin.com/in/neeraj-jawahirani-71841a12a/" target="_blank">
+<!--  <a href="https://www.linkedin.com/in/neeraj-jawahirani-71841a12a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
 
@@ -86,6 +88,6 @@
   <a href="https://neerajj.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" height="25" />
   </a>
-</p>
+</p>-->
 
 </div>
